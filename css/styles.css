@@ -8,11 +8,13 @@ p.more {
 .eggs {
   font-family: arial;
   color: hotpink;
+  margin-bottom: 50px;
 }
 
 .brownie {
   font-family: sans-serif;
   color: darkblue;
+  margin-top: 50px;
 
 }
 pre {
